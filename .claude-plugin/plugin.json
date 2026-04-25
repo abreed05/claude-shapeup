@@ -4,9 +4,9 @@
   "version": "0.1.0",
   "author": {
     "name": "Aaron Breeden",
-    "url": ""
+    "url": "https://github.com/abreed05"
   },
-  "repository": "",
+  "repository": "https://github.com/abreed05/claude-shapeup",
   "license": "MIT",
   "keywords": ["shape-up", "basecamp", "product-development", "shaping", "pitch", "methodology"]
 }
