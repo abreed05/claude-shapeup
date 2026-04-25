@@ -7,7 +7,7 @@ Shape Up methodology ([Basecamp](https://basecamp.com/shapeup), Ryan Singer) as 
 This is a Claude Code plugin. Add it to any project that has Claude Code:
 
 ```
-claude plugin add <this repo url>
+claude plugin add https://github.com/abreed05/claude-shapeup
 ```
 
 After install, the skills appear under the `shapeup:` namespace and can be invoked via slash command (e.g. `/shapeup:shape`) or auto-triggered when you describe a matching task.
