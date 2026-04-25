@@ -1,0 +1,12 @@
+{
+  "name": "shapeup",
+  "description": "Shape Up methodology (Basecamp) as a family of opinionated Claude Code skills. Turns raw feature ideas into properly shaped pitches with enforced discipline.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Aaron Breeden",
+    "url": ""
+  },
+  "repository": "",
+  "license": "MIT",
+  "keywords": ["shape-up", "basecamp", "product-development", "shaping", "pitch", "methodology"]
+}
